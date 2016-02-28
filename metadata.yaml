@@ -1,0 +1,41 @@
+_repo: The-True-Citizen-How-to-Become-One_6158
+creator:
+  authors:
+  - agent_name: Markwick, William Fisher
+    alias: Markwick, W. Fisher
+    birthdate: 1848
+    deathdate: 1911
+    gutenberg_agent_id: '4587'
+    url: http://www.gutenberg.org/2009/agents/4587
+  - agent_name: Smith, William Alexander
+    birthdate: 1866
+    gutenberg_agent_id: '4588'
+    url: http://www.gutenberg.org/2009/agents/4588
+description: This book, intended as a supplementary reader for pupils in the seventh
+  and eighth grades of school, has been prepared with a view to meeting a real need
+  of the times. While there are a large number of text-books, and several readers,
+  dealing with citizenship from the political point of view, the higher aspects of
+  citizenship--the moral and ethical--have been seriously overlooked. The authors
+  of this work have searched in vain for something which would serve as an aid to
+  the joint development of the natural faculties and the moral instincts, so as to
+  produce a well-rounded manhood, upon which a higher type of citizenship might be
+  built. The development of character appears, to us, to be of far greater importance,
+  in the preparation of the youth for the discharge of the duties of public life,
+  than is mere political instruction; for only by introducing loftier ethical standards
+  can the grade and quality of our citizenship be raised.
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6158'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PE'
+- !lcsh 'Conduct of life -- Problems, exercises, etc.'
+- !lcsh 'Readers -- Citizenship'
+- !lcsh 'Citizenship -- Problems, exercises, etc.'
+- !lcc 'JK'
+title: 'The True Citizen: How to Become One'
+url: http://www.gutenberg.org/ebooks/6158
