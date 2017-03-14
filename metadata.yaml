@@ -1,5 +1,8 @@
 _repo: The-True-Citizen-How-to-Become-One_6158
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Markwick, William Fisher
@@ -24,6 +27,8 @@ description: This book, intended as a supplementary reader for pupils in the sev
   in the preparation of the youth for the discharge of the duties of public life,
   than is mere political instruction; for only by introducing loftier ethical standards
   can the grade and quality of our citizenship be raised.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6158#The-True-Citizen-How-to-Become-One
 gutenberg_issued: '2004-07-01'
 gutenberg_type: Text
 identifiers:
