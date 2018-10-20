@@ -1,5 +1,5 @@
 _repo: The-True-Citizen-How-to-Become-One_6158
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -43,5 +43,6 @@ subjects:
 - !lcsh 'Readers -- Citizenship'
 - !lcsh 'Citizenship -- Problems, exercises, etc.'
 - !lcc 'JK'
+- GITenberg
 title: 'The True Citizen: How to Become One'
 url: http://www.gutenberg.org/ebooks/6158
